@@ -11,7 +11,7 @@ h1 {
 }
 .recipes a,
 li {
-  font-family:'Times New Roman', Times, serif ;
+  font-family:monospace;
   font-weight: 600;
   font-size:35px;
 }
@@ -19,4 +19,39 @@ li {
 .recipes a,
 li {
   color:#000000c2
-}u
+}
+.carbonara h1 {
+  font-size: 40px;
+}
+#carbimg {
+  height: auto;
+  width: 400px;
+}
+.carbonara .title1 {
+  font-size:25px;
+}
+.carbonara .description {
+  text-align: center;
+  font-family:Arial, sans-serif ;
+  font-weight: 600;
+  font-size:20px;
+  color:#000000c2;
+}
+.carbingred li {
+  font-size: 20px;
+}
+.carbsteps li {
+  font-size:20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.returnmain {
+  color:brown;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 600;
+  font-size:20px ;
+
+}
+.click {
+  text-align: center;
+
+}
