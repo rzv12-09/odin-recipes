@@ -30,7 +30,7 @@ li {
 .carbonara .title1 {
   font-size:25px;
 }
-.carbonara .description {
+.description {
   text-align: center;
   font-family:Arial, sans-serif ;
   font-weight: 600;
@@ -54,4 +54,8 @@ li {
 .click {
   text-align: center;
 
+}
+
+#soup .title1 {
+  font-size:25px;
 }
